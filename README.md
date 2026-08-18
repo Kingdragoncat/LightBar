@@ -2,7 +2,7 @@
 
 simple extendable light bar meant to be mounted to whatever project you want. just chain em together and go
 
-## what is this
+## what is this thimg
 
 its a PCB with 20 WS2812B addressable LEDs on it. theres connectors on both ends so you can daisy chain multiple bars together. each LED has its own 100nF bypass cap. theres also mounting holes on each end so you can screw it down to stuff
 
