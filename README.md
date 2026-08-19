@@ -37,15 +37,15 @@ hook up 5V, GND, and data to the input connector and youre good. if you want mor
 
 ## BOM
 
-| Ref | Qty | Value | Package | Description | Link |
-|-----|-----|-------|---------|-------------|------|
-| D1-D21 | 21 | WS2812B | 5050 PLCC4 | Addressable RGB LED | [LCSC](https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-W_C2761795.html) |
-| C1-C21 | 21 | 100nF | 1206 | Ceramic decoupling cap | [LCSC](https://www.lcsc.com/product-detail/Walsin-1206B104K500CT_C93194.html) |
-| C22 | 1 | 47uF | 1210 | Ceramic bulk cap | [LCSC](https://www.lcsc.com/product-detail/TORCH-CT4G-1210-X5R-16V-47uF-K_C2960960.html) |
-| R1, R2 | 2 | 330Ω | 1206 | SMD resistor | [LCSC](https://www.lcsc.com/search?q=1206%20330%20ohm) |
-| J1, J2 | 2 | Conn_01x03 | JST XH 3-pin | Through-hole connector (S3B-XH-A) | [LCSC](https://www.lcsc.com/product-detail/JST-S3B-XH-A-LF-SN_C157928.html) |
+| Ref | Qty | Value | Package | Description | Unit Price | Subtotal | Link |
+|-----|-----|-------|---------|-------------|-----------|----------|------|
+| D1-D21 | 21 | WS2812B | 5050 PLCC4 | Addressable RGB LED | $0.11 | $2.31 | [LCSC](https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-W_C2761795.html) |
+| C1-C21 | 21 | 100nF | 1206 | Ceramic decoupling cap | $0.03 | $0.63 | [LCSC](https://www.lcsc.com/product-detail/Walsin-1206B104K500CT_C93194.html) |
+| C22 | 1 | 47uF | 1210 | Ceramic bulk cap | $0.25 | $0.25 | [LCSC](https://www.lcsc.com/product-detail/TORCH-CT4G-1210-X5R-16V-47uF-K_C2960960.html) |
+| R1, R2 | 2 | 330Ω | 1206 | SMD resistor | $0.01 | $0.02 | [LCSC](https://www.lcsc.com/search?q=1206%20330%20ohm) |
+| J1, J2 | 2 | Conn_01x03 | JST XH 3-pin | Through-hole connector (S3B-XH-A) | $0.08 | $0.16 | [LCSC](https://www.lcsc.com/product-detail/JST-S3B-XH-A-LF-SN_C157928.html) |
 
-**total: 47 parts**
+**total: 47 parts — ~$3.37**
 
 ## license
 
